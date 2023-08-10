@@ -21,9 +21,9 @@ Inspire, reflect, and grow with our Quote App. Experience the transformative pow
 
 **HTML**, **CSS**, **JavaScript**
 
-## API Reference
+## 🔄API Reference
 
-```http
+```
   https://api.quotable.io/random
 ```
 
@@ -38,6 +38,6 @@ Inspire, reflect, and grow with our Quote App. Experience the transformative pow
 ## Screenshots
 
 <p align="center">
-  <img src="Quote.png" alt="Screenshot 1" width="600" height="600"/>
+  <img src="Quote.png" alt="Screenshot 1" width="800" height="600"/>
 </p>
 
